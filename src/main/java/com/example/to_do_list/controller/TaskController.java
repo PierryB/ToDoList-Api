@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = {"http://localhost:3000/"})
+@CrossOrigin(origins = {"http://localhost:3000/", "https://to-do-list-front-end-one.vercel.app/"})
 @RestController
 @RequestMapping("/api/v1")
 @AllArgsConstructor
