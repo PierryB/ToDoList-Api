@@ -71,4 +71,4 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
 
 Para uma visualização interativa e para testar os endpoints, acesse a documentação do Swagger UI no seu navegador após iniciar a aplicação:
 
-[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+[http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
